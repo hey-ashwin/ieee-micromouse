@@ -9,7 +9,7 @@ This project involved designing both the hardware platform and the embedded cont
 
 Old (2023) Micromouse Bot
 
-![Micromouse Robot](images./NewBot01.jpg)
+![Micromouse Robot](images./NewBot01.jpeg)
 
 Newer (2024) Micromouse Bot
 
