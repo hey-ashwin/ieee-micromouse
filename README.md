@@ -5,10 +5,12 @@ The robot explores and maps a 16×16 maze using the Flood Fill algorithm to comp
 Micromouse is a robotics challenge in which an autonomous robot must navigate an unknown maze and reach the center in the shortest possible time.
 This project involved designing both the hardware platform and the embedded control software required for autonomous maze exploration and navigation.
 
-![Micromouse Robot](images/Bot02.jpg)
+![Micromouse Robot](images./Bot02.jpg)
+
 Old (2023) Micromouse Bot
 
-![Micromouse Robot](images/NewBot01.jpg)
+![Micromouse Robot](images./NewBot01.jpg)
+
 Newer (2024) Micromouse Bot
 
 *Micromouse robot used for IEEE competition at APOGEE ’23 & ’24*
