@@ -8,12 +8,11 @@ This project involved designing both the hardware platform and the embedded cont
 ![Micromouse Robot](images./Bot02.jpg)
 
 Old (2023) Micromouse Bot
-
+-----------
 ![Micromouse Robot](images./NewBot01.jpeg)
 
 Newer (2024) Micromouse Bot
 
-*Micromouse robot used for IEEE competition at APOGEE ’23 & ’24*
 
 ### Operation
 
